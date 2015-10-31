@@ -1,0 +1,30 @@
+{
+  "name": "symfony_frontend",
+  "homepage": "https://github.com/jjbier/symfony_frontend",
+  "authors": [
+    "xabier <jjbier@gmail.com>"
+  ],
+  "description": "Symfony 2.7: Step by step, to building a website including Bower, Bootstrap, jQuery and Gulp",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Bower",
+    "Symfony",
+    "Bootstrap",
+    "jQuery",
+    "Gulp"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
